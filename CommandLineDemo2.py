@@ -1,7 +1,7 @@
 import sys
-n1=int(sys.argv[1])
-n2=int(sys.argv[2])
-n3=int(sys.argv[3])
+s1=int(sys.argv[1])
+s2=int(sys.argv[2])
+s3=int(sys.argv[3])
 r1=n1+n2
 r2=n1-n2
 r3=n1*n2
