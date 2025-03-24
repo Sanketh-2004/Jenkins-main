@@ -7,7 +7,7 @@ r2=n1-n2
 r3=n1*n2
 r4=n1/n2
 
-print("Addition:",r1)
-print("Subtraction:",r2)
-print("Multiplication:",r3)
-print("Division:",r4)
+print("File:",sys.argv[0])
+print("Name:",s1)
+print("Rno:",s2)
+print("Deptname:",s3)
